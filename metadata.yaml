@@ -1,21 +1,26 @@
 _repo: Salaperainen-vihollinen-Kertomus-salapoliisi-Asbjorn-Kragin-elamasta_57151
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ahma, Ilmari
-    birthdate: &id001 1884
+    birthdate: 1884
     deathdate: 1933
     gutenberg_agent_id: '48168'
     url: http://www.gutenberg.org/2009/agents/48168
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Elvestad, Sven
-    birthdate: *id001
+    birthdate: 1884
     deathdate: 1934
     gutenberg_agent_id: '48941'
     url: http://www.gutenberg.org/2009/agents/48941
     wikipedia: https://en.wikipedia.org/wiki/Sven_Elvestad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57151#Salaperainen-vihollinen-Kertomus-salapoliisi-Asbjorn-Kragin-elamasta
 gutenberg_issued: '2018-05-13'
 gutenberg_type: Text
 identifiers:
